@@ -780,6 +780,7 @@ h4 {
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #FFFFFF!important;
+    
 }
 
 .btn-atomic-tangerine:hover {
@@ -1067,4 +1068,16 @@ span .fa{
 .col-sm-4{
     color: #FFFFFF;
     font-size: 17px;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+.col-sm-12 img {
+    width: 20%;
+    height: auto;
+}
+.navbar-brand img{
+    width: 65%;
+    height: auto;
 }
