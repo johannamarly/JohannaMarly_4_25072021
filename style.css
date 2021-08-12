@@ -734,9 +734,7 @@ h4 {
     margin-top: 24px;
 }
 
-.white {
-    color: #FFFFFF!important;
-}
+
 
 .portfolio-thumb {
     margin-bottom: 24px;
@@ -779,7 +777,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #423434!important;
     
 }
 
@@ -1062,11 +1060,9 @@ p {
  .icon-md{
     color: #FFFFFF;
 }
-span .fa{
-    color: white;
-}
+
 .col-sm-4{
-    color: #FFFFFF;
+    color: black;
     font-size: 17px;
 }
 img{
@@ -1080,4 +1076,8 @@ img{
 .navbar-brand img{
     width: 65%;
     height: auto;
+}
+.col-sm-12 p {
+    font-size: 20px;
+    
 }
